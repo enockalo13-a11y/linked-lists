@@ -1,4 +1,6 @@
 """
+Author: Enock Alo (Student ID: 226054861)
+
 Data Structures and Algorithms - Lecture 7: Linear & Linked Lists
 Python implementation of the pseudocode algorithms in the slides.
 

@@ -1,5 +1,7 @@
 # Linked Lists
 
+Enock Alo - 226054861
+
 Python implementation of the List ADT from Lecture 7 (Data Structures and Algorithms): Linear & Linked Lists.
 
 - `ArrayList` - array implementation (0-based index)
